@@ -1,4 +1,4 @@
-# aksharam
+# Ticket booking
 
 ## Project setup
 ```
